@@ -5,7 +5,7 @@
 ## Running the projects:
 
 ```
-npm install
 cd "name-of-the-project"
+npm install
 npm start
 ```
